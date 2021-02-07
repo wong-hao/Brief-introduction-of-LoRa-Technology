@@ -53,10 +53,10 @@ type="semtech_udp"
     [integration.mqtt.auth.generic]
     # MQTT server (e.g. scheme://host:port where scheme is tcp, ssl or ws)
   
-    # default
+    # Aliyun Server (installed on cloud)
     # server="tcp://127.0.0.1:1883"
     
-    # Aliyun Server
+    # Aliyun Server (installed on gateway)
      server="tcp://47.110.36.225:1883"
    
     # Semtech Network Server
