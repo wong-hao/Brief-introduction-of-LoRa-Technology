@@ -11,6 +11,9 @@
   }, {
     "name" : "application/3/device/53232c5e6c936483/event/#",
     "color" : "#B3E6E6"
+  }, {
+    "name" : "gateway/0016c001ff10d3f6/event/#",
+    "color" : "#B3E6E6"
   } ],
   "publishTopics" : [ {
     "name" : "application/4/device/a4d65f0f136bb359/event/#"
@@ -28,6 +31,8 @@
     "name" : "application/3/device/53232c5e6c936483/event/#"
   }, {
     "name" : "application/3/device/53232c5e6c936483/command/down"
+  }, {
+    "name" : "gateway/0016c001ff10d3f6/event/#"
   } ],
   "clipboardMessages" : [ ]
 }
