@@ -1,0 +1,10 @@
+{
+  "subscribeTopics" : [ {
+    "name" : "rak811abp/devices/wisduino/up",
+    "color" : "#B3E6E6"
+  } ],
+  "publishTopics" : [ {
+    "name" : "rak811abp/devices/wisduino/up"
+  } ],
+  "clipboardMessages" : [ ]
+}
